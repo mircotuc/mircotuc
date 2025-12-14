@@ -4,7 +4,7 @@
 
 🎓 **Mathematical Engineering Student**  
 📍 Politecnico di Torino  
-🐍 Passionate about Python, data science, and mathematical modeling  
+🐍 Passionate about mathematical modelling, Operation Research  
 🔬 Currently working on a project about **variational free energy**
 
 ---
@@ -19,7 +19,7 @@
 
 ## 🛠️ Skills
 
-- **Programming languages:** Python, MATLAB
+- **Programming languages:** Python, MATLAB, C++, FORTRAN
 - **Math/Stats:** Probability, Statistics, Optimization
 - **Scientific Tools:** NumPy, SciPy, Matplotlib, Jupyter
 - **Other:** Git, LaTeX
@@ -37,8 +37,7 @@ I am exploring the principle of [variational free energy](https://en.wikipedia.o
 ## 📫 How to reach me
 
 - Email: mirco.tucci@studenti.polito.it
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/) <!-- Replace with your actual LinkedIn URL -->
-- [Politecnico di Torino](https://www.polito.it/)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/) 
 
 ---
 
@@ -49,11 +48,6 @@ I am exploring the principle of [variational free energy](https://en.wikipedia.o
 
 ---
 
-## ⚡ Fun fact
-
-I enjoy solving mathematical puzzles and learning about the intersection between math, computation, and the brain!
-
----
 
 <!--
 **mircotuc/mircotuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
