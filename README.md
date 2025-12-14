@@ -37,7 +37,7 @@ I am exploring the principle of [variational free energy](https://en.wikipedia.o
 ## 📫 How to reach me
 
 - Email: mirco.tucci@studenti.polito.it
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/) 
+- [LinkedIn]((https://www.linkedin.com/in/mirco-tucci/)) 
 
 ---
 
