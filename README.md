@@ -42,8 +42,8 @@ I am exploring the principle of [variational free energy](https://en.wikipedia.o
 
 ## 📂 Projects
 
-- [My Python notebooks](https://github.com/mircotuc?tab=repositories&q=notebook&type=source&language=&sort=) <!-- Update as needed -->
-- [Variational Free Energy Demo](https://github.com/mircotuc/variational-free-energy-demo) <!-- Create this repo or update as needed -->
+- [My Python notebooks]([https://github.com/mircotuc?tab=repositories&q=notebook&type=source&language=&sort=](https://github.com/alberto-fava/fep)) <!-- Update as needed -->
+
 
 ---
 
